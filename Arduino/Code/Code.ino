@@ -2,18 +2,17 @@
 #include "Grove_LED_Bar.h"
 #include "SeeedOLED.h"
 
-Grove_LED_Bar bar(3, 2, 0);
-
-const int CLK = 1;
 const int DIO = 2;
+const int CLK = 3;
 const int Lum = A0;
 
+Grove_LED_Bar bar(CLK, DIO, 0);
+
 void setup()
-{
+{    
+	Serial.begin(9600);
     bar.begin();
     bar.setGreenToRed(true);
-
-    Serial.begin(9600);
     
     Wire.begin();
     SeeedOled.init();
