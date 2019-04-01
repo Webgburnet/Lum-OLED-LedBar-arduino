@@ -1,9 +1,28 @@
-# Lum-OLED-LedBar-arduino
+## Logiciels
+| Arduino | Fritzing |
+| :-----: | :------: |
+| ![](/icone/Arduino.png) | ![](/icone/Fritzing.png) |
 
 ## Composants
+| Arduino | SeeedStudio |
+| :-----: | :------: |
+| ![](/icone/Arduino.png) | ![](/icone/Seeed_Studio.png) | 
 
-### Arduino_Uno
-![Arduino_Uno]()
+### Arduino
+| Arduino Mega  | Arduino Uno |
+| :-------------: | :-------------: | :-------------: |
+| ![](/composants/Arduino%20Mega.jpg) | ![](/composants/Arduino%20Uno.jpg) | 
+
+### Shield
+| Shield Grove base | Shield Grove Mega |
+| :-------------: | :-------------: |
+| ![](/composants/SeeedStudio/Shield_Grove_Base.png) | ![](/composants/SeeedStudio/Shield_Grove_Mega.jpg) |
+
+ 
+### SeeedStudio
+| Cable | Bar LED | Lumiére | OLED 0.96 |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| ![](/composants/SeeedStudio/Grove_Cable.jpg) | ![](/composants/SeeedStudio/Grove_LED_Bar-1.jpg) | ![](/composants/SeeedStudio/Grove_light.jpg) | ![](/composants/SeeedStudio/Grove_OLED-0.96.png) |
 
 ## Branchement
 ![Fritzing]()
