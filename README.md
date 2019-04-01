@@ -10,7 +10,7 @@
 
 ### Arduino
 | Arduino Mega  | Arduino Uno |
-| :-------------: | :-------------: | :-------------: |
+| :-------------: | :-------------: |
 | ![](/composants/Arduino%20Mega.jpg) | ![](/composants/Arduino%20Uno.jpg) | 
 
 ### Shield
