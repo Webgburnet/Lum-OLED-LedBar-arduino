@@ -30,7 +30,7 @@
 ![](/fritzing/Untitled_Sketch.png)
 
 ### Shield
-* NC
+* Shield Grove
 
 ### Analogique
 * A0: Luminosité
