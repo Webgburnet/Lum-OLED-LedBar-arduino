@@ -12,7 +12,7 @@
 * NC
 
 ### Analogique
-* A0: NC
+* A0: Luminosité
 * A1: NC
 * A2: NC
 * A3: NC
@@ -22,8 +22,8 @@
 ### Digital
 * D0 : RX rs232 non utilise
 * D1 : TX rs232 non utilise
-* D2 : NC
-* D3 : NC
+* D2 : Bar LED DIO
+* D3 : Bar LED CLK
 * D4 : NC
 * D5 : NC
 * D6 : NC
@@ -36,8 +36,8 @@
 * D13 : NC 
 
 ### I2C
-* SDA : NC
-* SCL : NC
+* SDA : OLED
+* SCL : OLED
 
 ### Alimentation
 * Vin : NC
